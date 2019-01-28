@@ -1,2 +1,2 @@
-# DevOps
+# DevOpsDemos
 DevOpsDemos
